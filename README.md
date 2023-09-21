@@ -1,1 +1,4 @@
 # University-Website-Automation-Using-Selenium
+
+This project involved the development of a Selenium-based automation solution using Maven and TestNG to streamline course registration on a university website. The automation suite successfully automated scenarios, including course browsing, course plan creation, adding courses to the plan, and marking them as favorites. These automated processes significantly improved user efficiency and reduced manual intervention.
+In addition to course registration, the project extended its automation capabilities to the university bookstore website. The shopping process was automated, which included product browsing, adding items to the shopping cart, and completing the checkout process, thereby providing a more convenient shopping experience for students and faculty.
